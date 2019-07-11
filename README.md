@@ -21,20 +21,20 @@ python 3.6
 ## 报文详情
 **主页**
 
-![](https://github.com/TeamoSCSC/Anfield/blob/master/images/homepage.png)
+![](https://github.com/TeamoSCSC/web_framework/blob/master/images/homepage.png)
 
 **注册**
 
-![](https://github.com/TeamoSCSC/Anfield/blob/master/images/register.png)
+![](https://github.com/TeamoSCSC/web_framework/blob/master/images/register.png)
 
 **登录**
 
-![](https://github.com/TeamoSCSC/Anfield/blob/master/images/login.png)
+![](https://github.com/TeamoSCSC/web_framework/blob/master/images/login.png)
 
 **微博**
 
-![](https://github.com/TeamoSCSC/Anfield/blob/master/images/weibo.png)
+![](https://github.com/TeamoSCSC/web_framework/blob/master/images/weibo.png)
 
 ## 动画演示
 
-![](https://github.com/TeamoSCSC/Anfield/blob/master/images/weibo.gif)
+![](https://github.com/TeamoSCSC/web_framework/blob/master/images/weibo.gif)
